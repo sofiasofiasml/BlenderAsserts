@@ -13,3 +13,9 @@ You can see the asserts:
 
  - Pancarta Manifestación: 
 <img src="/img/PancartaNORobots.png" width="630" height="344">
+
+ - Caja Manifestación: 
+<img src="/img/caja.png" width="630" height="344">
+
+
+
