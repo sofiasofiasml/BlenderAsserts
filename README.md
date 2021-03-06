@@ -5,6 +5,7 @@
 - [x] Donouts
 - [x] Cuadro Manifestación
 - [x] Pancarta Manifestación
+- [x] Caja Manifestación (Clipboard)
 
 You can see the asserts:
 
