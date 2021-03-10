@@ -1,5 +1,9 @@
 # BlenderAsserts
 
+You need to install Git LFS. In this link you can see how you can install Git LFS: [Link] (https://git-lfs.github.com/).
+
+Remember that you need git on your pc.
+
 ###### Projects: 
 
 - [x] Donouts
